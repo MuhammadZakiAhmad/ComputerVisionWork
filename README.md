@@ -23,6 +23,11 @@ Welcome to my GitHub portfolio! I am a passionate Computer Vision engineer and A
 - **Link:** https://github.com/MuhammadZakiAhmad/cvProject2_carCounterUsingYOLOv8.git
 - **Technologies:** OpenCV, YOLO v8, Python
 
+### 3. **Automatic Car Detection and License Plate Recognition System (ANPR)**
+- **Description:** This project aims to develop an intelligent system for detecting vehicles and recognizing their license plates along with reading the number and logging the data using advanced computer vision techniques and machine learning models.
+- **Link:** https://github.com/MuhammadZakiAhmad/ANPRUsingYOLOv8.git
+- **Technologies:** OpenCV, YOLO v8, EasyOCR, SORT, Python
+
 ---
 
 Feel free to explore my repositories and projects. I'm always open to collaborating on new and exciting projects!
