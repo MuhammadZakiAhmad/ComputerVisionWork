@@ -29,7 +29,7 @@ Welcome to my GitHub portfolio! I am a passionate Computer Vision engineer and A
 
 ### 4. **Human Emotion Detection using Deep Learning**
 - **Description:** This project involves training an image classifier from scratch on the Kaggle FER-2013 Dataset to detect emotions from facial expressions. The data consists of 48x48 pixel grayscale images of faces, categorized into one of seven emotions: Angry, Disgust, Fear, Happy, Sad, Surprise, and Neutral.
-- **Link:** https://github.com/MuhammadZakiAhmad/ANPRUsingYOLOv8.git
+- **Link:** https://github.com/MuhammadZakiAhmad/HumanEmotionDetection.git
 - **Technologies:** Python, Jupyter Notebook, TensorFlow/Keras, NumPy, Pandas, Matplotlib, Seaborn
 
 
