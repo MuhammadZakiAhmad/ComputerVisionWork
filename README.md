@@ -2,7 +2,7 @@
 
 # Muhammad Zaki Ahmad
 
-Welcome to my GitHub portfolio! I am a passionate Computer Vision engineer and AI enthusiast. Below are some of my projects that showcase my skills and expertise.
+Welcome to my GitHub portfolio! Below are some of my projects that showcase my skills and expertise in computer vision.
 
 ---
 
@@ -32,7 +32,28 @@ Welcome to my GitHub portfolio! I am a passionate Computer Vision engineer and A
 - **Link:** https://github.com/MuhammadZakiAhmad/HumanEmotionDetection.git
 - **Technologies:** Python, Jupyter Notebook, TensorFlow/Keras, NumPy, Pandas, Matplotlib, Seaborn
 
+---
 
+## 📂 Certifications
+
+Machine Learning Specialization
+
+![Coursera Machine Learning Specialization-1](https://github.com/MuhammadZakiAhmad/ComputerVisionWork/assets/110293196/10f674e7-44a0-4f75-8b9c-29a5e88b4bde)
+
+Maths For Machine Learning
+
+![Maths for ML_page-0001](https://github.com/MuhammadZakiAhmad/ComputerVisionWork/assets/110293196/08cd376f-5ea3-41de-9693-f189e5a6e344)
+
+Practical Data Science with AWS
+
+![Practical Data Science with AWS_page-0001](https://github.com/MuhammadZakiAhmad/ComputerVisionWork/assets/110293196/cc611838-9fe5-4a65-97ac-e0b91ab1482d)
+
+Python Skill Track on Datacamp
+
+![Python Skill Track](https://github.com/MuhammadZakiAhmad/ComputerVisionWork/assets/110293196/52a67419-bef1-4d10-82b2-136f53c8b38c)
+
+
+---
 ---
 
 Feel free to explore my repositories and projects. I'm always open to collaborating on new and exciting projects!
