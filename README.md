@@ -16,7 +16,6 @@ Welcome to my GitHub portfolio! I am a passionate Computer Vision engineer and A
 - **Link:** https://github.com/MuhammadZakiAhmad/AITrainer-CV-Application-.git
 - **Technologies:** OpenCV, Mediapipe, Python
 
----
 
 ### 2. **Smart Car Detection and Counting System**
 - **Description:** Utilizing YOLO for object detection, this project defines a Region of Interest (ROI) for vehicle counting, employs object tracking techniques, and visualizes vehicle counts in real-time.
@@ -27,6 +26,12 @@ Welcome to my GitHub portfolio! I am a passionate Computer Vision engineer and A
 - **Description:** This project aims to develop an intelligent system for detecting vehicles and recognizing their license plates along with reading the number and logging the data using advanced computer vision techniques and machine learning models.
 - **Link:** https://github.com/MuhammadZakiAhmad/ANPRUsingYOLOv8.git
 - **Technologies:** OpenCV, YOLO v8, EasyOCR, SORT, Python
+
+### 4. **Human Emotion Detection using Deep Learning**
+- **Description:** This project involves training an image classifier from scratch on the Kaggle FER-2013 Dataset to detect emotions from facial expressions. The data consists of 48x48 pixel grayscale images of faces, categorized into one of seven emotions: Angry, Disgust, Fear, Happy, Sad, Surprise, and Neutral.
+- **Link:** https://github.com/MuhammadZakiAhmad/ANPRUsingYOLOv8.git
+- **Technologies:** Python, Jupyter Notebook, TensorFlow/Keras, NumPy, Pandas, Matplotlib, Seaborn
+
 
 ---
 
