@@ -32,6 +32,11 @@ Welcome to my GitHub portfolio! Below are some of my projects that showcase my s
 - **Link:** https://github.com/MuhammadZakiAhmad/HumanEmotionDetection.git
 - **Technologies:** Python, Jupyter Notebook, TensorFlow/Keras, NumPy, Pandas, Matplotlib, Seaborn
 
+### 5. **Digital Mannequin for Online Shops(Virtual Try On)**
+- **Description:**  Developed an innovative software that creates a 3D digital model from user-uploaded photos, allowing virtual try-ons of clothing and accessories. The project features dynamic visualization of user models in motion and an extensive, customizable catalog. Enhanced personalization and customer satisfaction by providing accurate body proportion replication. Aimed at reducing return rates and improving online shopping experiences for consumers and retailers..
+- **Link:** https://github.com/MuhammadZakiAhmad/DigitalMannequinForOnlineShops.git
+- **Technologies:** Python, pytorch3d, pytorch, C#, Unity
+
 ---
 
 ## 📂 Certifications
