@@ -13,12 +13,12 @@ Welcome to my GitHub portfolio! Below are some of my projects that showcase my s
 
 ### 1. **FootBall Analysis Using Computer Vison**
 - **Description:** The FootBall Analysis CV Project utilizes advanced computer vision techniques to analyze football match videos, providing functionalities such as object detection, tracking, team assignment, and ball possession analysis. It leverages YOLO for detection, ByteTrack for tracking and k-means clustering for team assignments, offering a comprehensive tool for sports analytics.
-- **Link:** https://github.com/MuhammadZakiAhmad/EndToEndChestCancerClassificationUsingMlflowAndDVC.git
+- **Link:** https://github.com/MuhammadZakiAhmad/FootBallAnalysisCVProject.git
 - **Technologies:** Python, Tensorflow, OpenCV, YOLOv8, YOLOv5, Supervision, Bytetrack, Pandas, K Mean Clustering
 
 ### 2. **EndtoEndChestCancerClassificationUsingMlflowAndDVC**
 - **Description:** This project focuses on the development/production aspect of ML project life cycle, in this project we train a DL model to classify Chest Cancer with an image uplaoding user interface.
-- **Link:** https://github.com/MuhammadZakiAhmad/FootBallAnalysisCVProject.git
+- **Link:** https://github.com/MuhammadZakiAhmad/EndToEndChestCancerClassificationUsingMlflowAndDVC.git
 - **Technologies:** Python, Tensorflow, keras, Mlflow, Dagshub, DVC, AWS, Github Actions
 
 ### 3. **AI-Based Fitness Trainer: Real-time Exercise Monitoring and Repetition Counting**
