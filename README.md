@@ -47,6 +47,11 @@ Welcome to my GitHub portfolio! Below are some of my projects that showcase my s
 - **Link:** https://github.com/MuhammadZakiAhmad/DigitalMannequinForOnlineShops.git
 - **Technologies:** Python, pytorch3d, pytorch, C#, Unity
 
+### 8. **End to End Data Engineering Solution Using Azure Tech Stake**
+- **Description:**  This comprehensive project showcases a complete Azure data engineering solution,commencing with a local SQL database and culminating in automated Power BI reporting. Azure Data Factory for data ingestion from On premise SQL Server to ADLS Gen 2, Azure Databricks for transformation, Bronze -> Silver -> Gold (Medallion Architecture), Azure Synapse Analytics for data storage in a serverless database, Power BI for reporting and Analysis.
+- **Link:** https://github.com/MuhammadZakiAhmad/dataengineeringendtoendproject_1.git
+- **Technologies:** Python, Pysaprk, SQL, Azure Databricks, Azure Datafactory, Azure Synapse Analytics, Power BI
+
 ---
 
 ## 📂 Certifications
@@ -66,6 +71,19 @@ Practical Data Science with AWS
 Python Skill Track on Datacamp
 
 ![Python Skill Track](https://github.com/MuhammadZakiAhmad/ComputerVisionWork/assets/110293196/52a67419-bef1-4d10-82b2-136f53c8b38c)
+
+Forecasting Models and Time Series For Business in Python
+![Udemy_TimeSeriesCertificate](https://github.com/MuhammadZakiAhmad/ComputerVisionWork/assets/110293196/0cb0f8a5-2d43-44f1-9c9c-a8c925febae1)
+
+
+Azure Data Factory
+![Azure Data Factory-1](https://github.com/MuhammadZakiAhmad/ComputerVisionWork/assets/110293196/8a5002c2-0c50-4c4a-821d-8c4b5736f0fd)
+
+Azure Databricks
+![Coursera BBX63RLQ6T3C-1](https://github.com/MuhammadZakiAhmad/ComputerVisionWork/assets/110293196/09c37311-1867-4cf0-a387-113d561eebce)
+
+Azure Synapse Analytics
+![UC-58d0cc65-b815-4458-8277-c0b45af5d9c3-1](https://github.com/MuhammadZakiAhmad/ComputerVisionWork/assets/110293196/90b0e3b4-0b3e-4a01-9355-e116c99bfad1)
 
 
 ---
