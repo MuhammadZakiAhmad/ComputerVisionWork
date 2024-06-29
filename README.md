@@ -2,7 +2,7 @@
 
 # Muhammad Zaki Ahmad
 
-Welcome to my GitHub portfolio! Below are some of my projects that showcase my skills and expertise in computer vision.
+Welcome to my GitHub portfolio! Below are some of my projects that showcase my skills and expertise in AI and Data.
 
 ---
 
