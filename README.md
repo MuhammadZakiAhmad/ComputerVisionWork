@@ -47,7 +47,7 @@ Welcome to my GitHub portfolio! Below are some of my projects that showcase my s
 - **Link:** https://github.com/MuhammadZakiAhmad/DigitalMannequinForOnlineShops.git
 - **Technologies:** Python, pytorch3d, pytorch, C#, Unity
 
-### 8. **End to End Data Engineering Solution Using Azure Tech Stake**
+### 8. **End to End Data Engineering Solution Using Azure Tech Stack**
 - **Description:**  This comprehensive project showcases a complete Azure data engineering solution,commencing with a local SQL database and culminating in automated Power BI reporting. Azure Data Factory for data ingestion from On premise SQL Server to ADLS Gen 2, Azure Databricks for transformation, Bronze -> Silver -> Gold (Medallion Architecture), Azure Synapse Analytics for data storage in a serverless database, Power BI for reporting and Analysis.
 - **Link:** https://github.com/MuhammadZakiAhmad/dataengineeringendtoendproject_1.git
 - **Technologies:** Python, Pysaprk, SQL, Azure Databricks, Azure Datafactory, Azure Synapse Analytics, Power BI
