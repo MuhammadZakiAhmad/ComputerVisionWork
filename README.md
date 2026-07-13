@@ -21,8 +21,8 @@ Welcome to my GitHub portfolio! Below are some of my projects that showcase my s
 - **Link:** https://github.com/MuhammadZakiAhmad/EndToEndChestCancerClassificationUsingMlflowAndDVC.git
 - **Technologies:** Python, Tensorflow, keras, Mlflow, Dagshub, DVC, AWS, Github Actions
 
-### 3. **AI-Based Fitness Trainer: Real-time Exercise Monitoring and Repetition Counting**
-- **Description:** Combining computer vision and AI, this project creates a real-time fitness trainer that uses openCV and the Mediapipe library for pose estimation. The system detects and tracks human poses during exercises, offering real-time feedback and tracking repetitions.
+### 3. **AI-Based Patient's Fitness Trainer: Real-time Exercise Monitoring and Repetition Counting**
+- **Description:** Combining computer vision and AI, this project creates a real-time patient physiotherapy trainer that uses openCV and the Mediapipe library for pose estimation. The system detects and tracks human poses during exercises, offering real-time feedback and tracking repetitions.
 - **Link:** https://github.com/MuhammadZakiAhmad/AITrainer-CV-Application-.git
 - **Technologies:** OpenCV, Mediapipe, Python
 
